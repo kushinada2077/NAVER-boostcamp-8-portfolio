@@ -55,8 +55,6 @@ Code Clashは、ありきたりなアルゴリズム対戦プラットフォー�
 
 # ⚙️ 技術スタック
 
-> 技術選定の経緯や理由に関する詳細は、プロジェクトWikiにまとめています。
-
 ### **FE (フロントエンド)**
 
 ![image](https://github.com/boostcampwm2023/web06-CodeClash/assets/77053595/8690cd01-24cf-48cb-a5df-22a3d00d6c71)
