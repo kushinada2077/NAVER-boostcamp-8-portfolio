@@ -14,7 +14,7 @@
 | J091\_이근성                                                 | J096\_이동하                                                  | J152\_지현배                                                 | J167\_현찬우                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![img](https://avatars.githubusercontent.com/u/79559361?v=4) | ![img](https://avatars.githubusercontent.com/u/111179843?v=4) | ![img](https://avatars.githubusercontent.com/u/43944581?v=4) | ![img](https://avatars.githubusercontent.com/u/77053595?v=4) |
-| [@Geun Seong Lee](https://github.com/LEEGURTS)               | [@movingsummer](https://github.com/movingsummer)              | [@ruok](https://github.com/ruokic)                           | [@ChanWoo Hyun](https://github.com/h9661)                    |
+| [@Geun Seong Lee](https://github.com/LEEGURTS)               | [@kushinada](https://github.com/kushinada2077)              | [@ruok](https://github.com/ruokic)                           | [@ChanWoo Hyun](https://github.com/h9661)                    |
 
 # 링크
 
