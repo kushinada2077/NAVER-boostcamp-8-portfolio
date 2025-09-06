@@ -12,7 +12,7 @@ https://codeclash.duckdns.org
 
 # 👨‍👩‍👧‍👦 チームメンバー
 
-| J091\_イグンソン                                                    | J096\_イドンハ                                                  | J152\_ジ・ヒョンベ                                             | J167\_ヒョン・チャヌ                                           |
+| J091\_イグンソン                                                    | J096\_イドンハ                                                  | J152\_ジヒョンベ                                             | J167\_ヒョンチャヌ                                           |
 | ------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![img](https://avatars.githubusercontent.com/u/79559361?v=4)         | ![img](https://avatars.githubusercontent.com/u/111179843?v=4)   | ![img](https://avatars.githubusercontent.com/u/43944581?v=4)    | ![img](https://avatars.githubusercontent.com/u/77053595?v=4)  |
 | [@Geun Seong Lee](https://github.com/LEEGURTS)                      | [@kushinada](https://github.com/kushinada2077)                  | [@ruok](https://github.com/ruokic)                             | [@ChanWoo Hyun](https://github.com/h9661)                    |
